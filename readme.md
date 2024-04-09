@@ -1,3 +1,3 @@
-# Simple Tailwind CSS Starter
+# Tailwind CSS Grid and Plugins Testimonial Grid
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+Testimonial Grid project from from Frontend Mentor Challenge
